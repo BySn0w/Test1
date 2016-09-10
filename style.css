@@ -1,3 +1,7 @@
+body {
+    background: powderblue;
+}
+
 p {
     color: red;
 }
@@ -10,4 +14,14 @@ p {
 
 .button-bonsoir {
     background-color: green;
+}
+
+.titre1 {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.button-google {
+    background-color: cadetblue;
+    border: 1px solid antiquewhite;
 }
